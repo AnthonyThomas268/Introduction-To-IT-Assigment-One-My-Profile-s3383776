@@ -1,12 +1,21 @@
 
 .wrapper  {
   margin: 0 auto;
-  width: 800px;
+  width: 1000px;
 }
 .purebeauty {
   width: 300px;
 }
 .BitcoinPeakPrice {
-width: 400px
+width: 500px
 
 }
+.Screengrabone {width: 490px
+
+}
+.Screengrabtwo {width: 490px
+}
+  .img-with-text {
+      text-align: justify;
+      width: [500px];
+  }
